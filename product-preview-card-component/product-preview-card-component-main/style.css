@@ -1,0 +1,29 @@
+@import url("https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,100..900;1,9..144,100..900&family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap");
+body {
+  height: 100vh;
+  background-color: hsl(30, 38%, 92%) ;
+}
+.title {
+  font-family: "Montserrat", serif;
+  font-weight: 400;
+  letter-spacing: 5px;
+}
+.main-title {
+  font-family: "Fraunces", serif;
+  font-weight: bold;
+}
+
+.para {
+  font-family: "Montserrat", serif;
+  font-size: small;
+  font-weight: 300;
+  color: gray;
+}
+
+.prices {
+  font-family: "Fraunces", serif;
+}
+
+.del {
+  color: rgba(128, 128, 128, 0.527);
+}
